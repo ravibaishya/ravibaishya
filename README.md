@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Ravi Baishya 👋
 
-<!--
-**ravibaishya/ravibaishya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Java Backend Developer
 
-Here are some ideas to get you started:
+I'm currently learning **Java and Backend Development**, with a focus on building a strong foundation in programming and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+
+- Java
+- Object-Oriented Programming
+- Backend Development
+- Problem Solving
+- Git & GitHub
+
+### 🎯 Career Goal
+
+To become a professional **Java Backend Developer** and build reliable, scalable, and real-world backend applications.
+
+### 📚 Learning Journey
+
+I'm documenting my learning journey and projects here as I progress from Java fundamentals toward professional backend development.
+
+### 📫 Connect With Me
+
+- Email: ravibaishya.dev@gmail.com
+
+
+⭐ Thanks for visiting my profile 
